@@ -46,6 +46,15 @@ public class LonelyTwitterActivity extends Activity {
 		});
 	}
 
+	Tweet first;
+	first = new Tweet();
+
+	System.out.println("");
+
+	String temp = firsttweet.getMessage();
+
+
+
 	@Override
 	protected void onStart() {
 		// TODO Auto-generated method stub
@@ -93,3 +102,6 @@ public class LonelyTwitterActivity extends Activity {
 		}
 	}
 }
+
+//public abstract class CurrentMood{
+
