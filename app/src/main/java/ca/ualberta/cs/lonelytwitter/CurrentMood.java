@@ -4,7 +4,7 @@ import java.util.*;
 
 public abstract class CurrentMood {
 
-    Date date1 = new Date;
+    Date date1 = new Date();
 
 
 
