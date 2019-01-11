@@ -5,12 +5,17 @@ package ca.ualberta.cs.lonelytwitter;
 
 public class happy extends CurrentMood {
 
-    static String mood2 = "happy";
+    //static String mood2 = "happy";
 
-    public static void main(String[] args) {
+    happy(){
+        super.setdate("Wensday");
+    }
+
+
+    /*public static void main(String[] args) {
 
         System.out.println(mood2);
 
 
-    }
+    }*/
 }

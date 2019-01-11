@@ -18,6 +18,8 @@ public class CurrentMood {
     public String mood1;
     private String mood2;
 
+    private String date;
+
     public static void main(String[] args){
 
         Date date1 = new Date();
@@ -44,4 +46,12 @@ public class CurrentMood {
 
 
 
+    public void setdate(String date) {
+        //this.x = x;
+        this.date = date;
+    }
+
+    public String getdate(){
+        return date;
+    }
 }
