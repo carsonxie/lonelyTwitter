@@ -1,6 +1,6 @@
-package ca.ualberta.cs.lonelytwitter;
+//package ca.ualberta.cs.lonelytwitter;
 import java.util.*;
-
+import java.util.Date;
 
 /*
 
@@ -21,7 +21,11 @@ public class CurrentMood {
     public static void main(String[] args){
 
         Date date1 = new Date();
-        System.out.println("Hello World");
+        System.out.println("happy");
+        Date date = new Date();
+
+        // display time and date using toString()
+        System.out.println(date.toString());
 
     }
 

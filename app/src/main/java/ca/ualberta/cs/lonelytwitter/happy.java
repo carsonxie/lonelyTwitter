@@ -5,7 +5,7 @@ package ca.ualberta.cs.lonelytwitter;
 
 public class happy extends CurrentMood {
 
-    static String mood2 = new String("happy");
+    static String mood2 = "happy";
 
     public static void main(String[] args) {
 
@@ -13,6 +13,4 @@ public class happy extends CurrentMood {
 
 
     }
-
-
-    }
+}

@@ -13,6 +13,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6de9887d-efba-4a07-b762-0d2a1ed39c33" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/happy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/happy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,17 +51,20 @@
       <file leaf-file-name="LonelyTwitterActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+            <state relative-caret-position="15">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentMood.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CurrentMood.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sad.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -84,8 +90,8 @@
       <file leaf-file-name="Tweet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -2263,11 +2269,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/happy.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java" />
       </list>
     </option>
   </component>
@@ -2580,22 +2586,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+        <state relative-caret-position="15">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/Tweet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -2606,10 +2612,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/sad.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/CurrentMood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
