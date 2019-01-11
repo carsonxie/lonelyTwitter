@@ -4,17 +4,15 @@ import java.util.Date;
 
 public class Tweet {
 
-    String message;
-    int h;
-    int w;
-    int wings;
+    public static String message = new String();
 
-    Date date;
+
 
     public void Tweet(){
 
-        message = "";
-        date = null;
+        message = "first tweet message";
+
+
     }
 
     public void setMessage(String tweetmessage){
@@ -27,22 +25,13 @@ public class Tweet {
         return message;
     }
 
+    public static void main(String[] args){
+
+        Date date1 = new Date();
+        System.out.println(message);
 
 
 
-
-
-
-
-
-
-
-    public void Animal(){
-
-        this.name = "default";  //arrtibute method
-        h = 0;
-        w = 0;
-        wings = 0;
 
     }
 

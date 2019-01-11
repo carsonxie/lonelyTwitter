@@ -46,14 +46,14 @@ public class LonelyTwitterActivity extends Activity {
 		});
 	}
 
-	Tweet first;
-	first = new Tweet();
+/*
+	Tweet first = new Tweet();
 
 	System.out.println("");
 
 	String temp = firsttweet.getMessage();
 
-
+*/
 
 	@Override
 	protected void onStart() {
