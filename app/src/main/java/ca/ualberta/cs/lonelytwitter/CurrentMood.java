@@ -10,13 +10,13 @@ encapsulation, constructors, inheritance and abstract base classes.
 
  */
 
-public abstract class CurrentMood {
+public class CurrentMood {
 
     int x = 2;
     String myStr = "this is a string attribute";
 
-    String mood1;
-    String mood2;
+    public String mood1;
+    private String mood2;
 
     public static void main(String[] args){
 
